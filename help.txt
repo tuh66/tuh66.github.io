@@ -1,0 +1,13 @@
+Ruher Bot HELP
+
+1. r!NUKE
+Is Activate A Nuke
+
+2. r!SPAM
+Is Activate A Spam
+
+3. r!KICK @user
+Is kicks a user from server.
+
+4. r!BAN @user
+Is Bans A user from server.
