@@ -1,4 +1,4 @@
-Ruher Bot HELP
+Ruher Bot CMDS
 
 1. r!NUKE
 Is Activate A Nuke
@@ -14,5 +14,3 @@ Is Bans A user from server.
 
 4. r!CREDITS
 You Can See credits.
-
-cmd: r!HELP
