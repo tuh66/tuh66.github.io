@@ -12,5 +12,5 @@ Is kicks a user from server.
 4. r!BAN @user
 Is Bans A user from server.
 
-4. r!CREDITS
+5. r!CREDITS
 You Can See credits.
