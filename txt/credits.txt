@@ -2,5 +2,3 @@ Ruher Bot CREDITS
 
 开黑啦#7913
 The Scripter and owner
-
-cmd: r!CREDITS
